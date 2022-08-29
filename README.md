@@ -23,4 +23,4 @@ I have helped with these problems and I want to help anyone solve these problems
 
 
 ## License
-
+[GNU General Public License v3.0](./LICENSE)
