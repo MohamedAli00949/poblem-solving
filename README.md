@@ -7,7 +7,7 @@ I have helped with these problems and I want to help anyone solve these problems
 
 | sheet | solutions |
 | ---------- | ------------ |
-| [Sheet #1 (Data type - Conditions)](https://codeforces.com/group/MWSDmqGsZm/contest/219158) | |
+| [Sheet #1 (Data type - Conditions)](https://codeforces.com/group/MWSDmqGsZm/contest/219158) | [My answer](./data%20types%20-%20conditions/) |
 | [Contest #1](https://codeforces.com/group/MWSDmqGsZm/contest/326175) | |
 | [Sheet #2 (Loops)](https://codeforces.com/group/MWSDmqGsZm/contest/219432) | |
 | [Contest #2](https://codeforces.com/group/MWSDmqGsZm/contest/326907) | |
